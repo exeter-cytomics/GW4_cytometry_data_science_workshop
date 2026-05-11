@@ -37,15 +37,13 @@ Password: 1234
 
 ## What you need before the workshop
 
-Before running the launcher, please install **Docker Desktop**.
+Before running the launcher, please install **Docker Desktop**
 
 ### Windows and macOS
 
 Download Docker Desktop from:
 
-```text
-https://www.docker.com/products/docker-desktop/
-```
+[Download Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 After installation, open Docker Desktop and make sure it is running before starting the workshop launcher.
 
